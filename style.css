@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: black;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 55px;
+    position: relative;
+    top: 50px; 
+}
+.titulo:hover{
+    font-weight: bold;
+    top: 50px; 
+    font-size: 95px;
+    transition: 0.5s;
+    color: red;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+    transition: 0.5s;
+}
+nav{
+   
+}
+
+.sec1{
+    background-color: white;
+    width: 1300px;
+    height:600px;
+    margin: 30px;
+}
+iframe{
+    margin-top: 90px;
+}
